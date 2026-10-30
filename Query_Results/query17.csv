@@ -1,0 +1,4 @@
+"discount_level","total_orders","average_sales","average_profit","total_sales","total_profit"
+"Low Discount","244","77400.25","15480.05","18885661.37","3777132.29"
+"Medium Discount","348","76553.29","15310.66","26640544.47","5328108.87"
+"High Discount","408","72762.03","14552.41","29686906.90","5937381.37"
