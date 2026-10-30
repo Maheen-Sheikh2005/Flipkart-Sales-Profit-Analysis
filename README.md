@@ -1,2 +1,20 @@
-# Flipkart-Sales-Profit-Analysis
-An end-to-end sales and profit analysis project using PostgreSQL and Power BI to explore Flipkart sales data. Includes 18 SQL queries and an interactive dashboard covering product performance, profitability, discounts, customer segments, and regional trends.
+# Flipkart Sales & Profit Analysis
+
+## Project Overview
+An end-to-end sales analysis project using a Flipkart sales dataset containing 1,000 records. The project focuses on understanding sales performance, profitability, product performance, customer behavior, and regional trends.
+
+## Tools Used
+- **PostgreSQL:** Data analysis using SQL queries, aggregations, CTEs, and window functions.
+- **Power BI:** Interactive dashboard for visualizing sales and profit insights.
+
+## Key Analysis
+- Overall sales, profit, and profit margin.
+- Category-wise sales and profitability.
+- Product rankings based on sales, profit, and customer ratings.
+- Discount and profit analysis.
+- Regional and customer segment performance.
+- Monthly sales trends.
+- Payment method analysis.
+
+## Project Objective
+To transform raw sales data into meaningful business insights and support better business decision-making.
